@@ -1,0 +1,1 @@
+{"root":["./backend/src/quiz.ts","./backend/src/index.ts","./backend/src/managers/iomanager.ts","./backend/src/managers/quizmanager.ts","./backend/src/managers/usermanager.ts"],"errors":true,"version":"5.7.2"}
